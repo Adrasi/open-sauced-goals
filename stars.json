@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "antonio-hickey/crust-of-rust",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Adrasi/Testing-repo",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -31,8 +37,8 @@
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 62585,
+    "stargazers_count": 62666,
     "open_issues_count": 13,
-    "forks_count": 3185
+    "forks_count": 3192
   }
 ]
